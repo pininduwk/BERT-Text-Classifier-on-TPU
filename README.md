@@ -13,4 +13,4 @@ In this project, we will be training the multilingual BERT model using TPU.
 # TPU
 Tensor Processing Unit (TPU) is an Artificial Intelligence accelerator application-specific integrated circuit (ASIC) developed by Google which helps reduce training time on deep learning models especially Google’s own TensorFlow package Tensor Processing Unit. Training your deep learning model on TPU is much simpler in the TensorFlow python library as compared to PyTorch.
 
-![TPU](image.jpg)
+
